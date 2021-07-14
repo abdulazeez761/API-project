@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(17, 16, 16);
+    color: blanchedalmond;
+}
+
+#product-div{
+    position: absolute;
+    right: 21%;
+    
+}
+p{
+   
+  position: relative; 
+  left: 40%;
+  top: 40px;
+}
+#product-div div{
+    padding: 40px;
+}
+#numf{
+    position: absolute;
+    right: 200px;
+    bottom: 100px;
+}
+#submit{
+    position: relative;
+    top: 60px;
+  
+    background-color:rgb(8, 8, 8);
+    border: none;
+    color: white;
+    padding: 12px 22px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+img{
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+    margin-left: 60px;
+    position: absolute;
+    right: 400px;
+    bottom:-70%;
+}
